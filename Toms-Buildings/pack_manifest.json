@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "A collection of functions that create buildings.",
+        "name": "Tom's Buildings",
+        "uuid": "3467facb-e3da-4c34-b519-538af5081947",
+        "version": [1, 8, 0],
+        "min_engine_version": [1, 8, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "58ef24f7-ce51-4480-ab6c-9b8017ee9d84",
+            "version": [1, 8, 0]
+        }
+    ]
+}
