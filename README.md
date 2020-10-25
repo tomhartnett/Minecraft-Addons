@@ -5,7 +5,7 @@ This is an add-on for Minecraft Bedrock Edition. It is a behavior pack that adds
 - `tb-hut` Builds a small hut with a window and door.
 - `tb-b5` Builds a 5-story building with quarts blocks and gray stained glass windows.
 
-**Example usage.** The `tb-hut` function adds a small hut.
+**Example usage.**
 ```
 /function tb-hut
 ```

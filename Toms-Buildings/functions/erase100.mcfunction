@@ -1,0 +1,34 @@
+#delete a bunch of stuff
+fill ~0 4 ~0 ~10 255 ~10 air
+fill ~0 4 ~0 ~10 255 ~-10 air
+fill ~0 4 ~0 ~-10 255 ~-10 air
+fill ~0 4 ~0 ~-10 255 ~10 air
+fill ~-20 4 ~20 ~-10 255 ~10 air
+fill ~-10 4 ~20 ~0 255 ~10 air
+fill ~0 4 ~20 ~10 255 ~10 air
+fill ~10 4 ~20 ~20 255 ~10 air
+fill ~10 4 ~10 ~20 255 ~0 air
+fill ~10 4 ~0 ~20 255 ~-10 air
+fill ~10 4 ~-10 ~20 255 ~-20 air
+fill ~0 4 ~-10 ~10 255 ~-20 air
+fill ~-10 4 ~-10 ~0 255 ~-20 air
+fill ~-20 4 ~-10 ~-10 255 ~-20 air
+fill ~-20 4 ~0 ~-10 255 ~-10 air
+fill ~-20 4 ~10 ~-10 255 ~0 air
+#replace the grass
+fill ~0 3 ~0 ~10 3 ~10 grass
+fill ~0 3 ~0 ~10 3 ~-10 grass
+fill ~0 3 ~0 ~-10 3 ~-10 grass
+fill ~0 3 ~0 ~-10 3 ~10 grass
+fill ~-20 3 ~20 ~-10 3 ~10 grass
+fill ~-10 3 ~20 ~0 3 ~10 grass
+fill ~0 3 ~20 ~10 3 ~10 grass
+fill ~10 3 ~20 ~20 3 ~10 grass
+fill ~10 3 ~10 ~20 3 ~0 grass
+fill ~10 3 ~0 ~20 3 ~-10 grass
+fill ~10 3 ~-10 ~20 3 ~-20 grass
+fill ~0 3 ~-10 ~10 3 ~-20 grass
+fill ~-10 3 ~-10 ~0 3 ~-20 grass
+fill ~-20 3 ~-10 ~-10 3 ~-20 grass
+fill ~-20 3 ~0 ~-10 3 ~-10 grass
+fill ~-20 3 ~10 ~-10 3 ~0 grass
