@@ -6,6 +6,7 @@ This is an add-on for Minecraft Bedrock Edition. It is a behavior pack that adds
 - `building5` Builds a 5-story building with quarts blocks and gray stained glass windows.
 - `building10` Builds a 10-story tower.
 - `erase` Fills a 40x40 area from y=4 up through y=255 with air.
+- `nuke` Fills a 110x110 area from your current y up through y=255 with air.
 
 **Example usage.**
 ```
